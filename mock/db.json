@@ -1,0 +1,52 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Former Prince Andrew Arrested on Suspicion of Misconduct",
+      "description": "British police arrested Andrew Mountbatten-Windsor, formerly Prince Andrew, on suspicion of misconduct in public office linked to his past association with Jeffrey Epstein. Authorities searched his residences and released him under investigation.",
+      "date": "2026-02-20",
+      "image": "prince_andrew_arrest.jpg",
+      "url": "https://apnews.com/article/61ea3c437680b8341e623e4d9efa47b8"
+    },
+    {
+      "id": 2,
+      "title": "Ex-Prince Andrew Could Face Life Imprisonment if Charged",
+      "description": "Although not formally charged, legal experts say former Prince Andrew could face a maximum life sentence if convicted of misconduct in public office.",
+      "date": "2026-02-19",
+      "image": "prince_andrew_legal_experts.jpg",
+      "url": "https://people.com/ex-prince-andrew-could-face-life-imprisonment-if-charged-convicted-expert-says-11909847"
+    },
+    {
+      "id": 3,
+      "title": "Royal Family in “Unchartered Territory” Over Epstein Ties",
+      "description": "Continued revelations from the Epstein files have intensified scrutiny on the British royal family’s handling of Andrew’s ties to the convicted sex offender.",
+      "date": "2026-02-13",
+      "image": "royal_family_epstein.jpg",
+      "url": "https://abcnews.com/GMA/News/britains-royal-family-unchartered-territory-former-prince-andrew/story?id=130039276"
+    },
+    {
+      "id": 4,
+      "title": "8 Backcountry Skiers Found Dead After Sierra Avalanche",
+      "description": "A severe storm near Lake Tahoe triggered a massive avalanche that killed eight backcountry skiers and left one missing.",
+      "date": "2026-02-18",
+      "image": "lake_tahoe_avalanche.jpg",
+      "url": "https://apnews.com/article/f7b4a89c38af634e39a152a874db17f0"
+    },
+    {
+      "id": 5,
+      "title": "Trump Orders Release of UFO and Alien Files",
+      "description": "Former U.S. President Trump directed federal agencies to release previously classified files related to UFOs and extraterrestrial life.",
+      "date": "2026-02-20",
+      "image": "ufo_files_release.jpg",
+      "url": "https://news.google.com"
+    },
+    {
+      "id": 6,
+      "title": "Governors Group Skips White House Meeting After Dispute",
+      "description": "A group of U.S. state governors announced they would not attend a White House dinner after political disagreements with the administration.",
+      "date": "2026-02-20",
+      "image": "governors_white_house.jpg",
+      "url": "https://news.google.com"
+    }
+  ]
+}
