@@ -1,6 +1,4 @@
 <script setup>
-import navbar from "~/components/navbar.vue";
-
 const route = useRoute()
 const id = route.params.id
 
@@ -11,7 +9,7 @@ const {data: article, pending, error} = await useFetch(
 
 <template>
   <navbar/>
-
+<!--  <h1>{{ article.title }}</h1>-->
   <div class="min-h-screen bg-gray-100 py-10">
     <div class="max-w-3xl mx-auto px-6">
 

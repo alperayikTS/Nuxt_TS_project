@@ -25,7 +25,7 @@ npm -v
 Clone de repository naar je computer:
 
 ```bash
-git clone https://github.com/alperayikTS/Nuxt_TS_project.git
+git clone <your-repository-url>
 ```
 
 ## 2. Ga naar de projectmap

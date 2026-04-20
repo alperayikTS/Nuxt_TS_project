@@ -1,6 +1,4 @@
 <script setup>
-import newsoverzicht from '~/components/newsoverzicht.vue'
-import navbar from '~/components/navbar.vue'
 </script>
 
 <template>

@@ -1,7 +1,4 @@
 <script setup>
-import { ref } from 'vue'
-import navbar from '~/components/navbar.vue'
-
 let firstName = ref('')
 let lastName = ref('')
 let mail = ref('')
